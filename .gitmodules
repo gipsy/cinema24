@@ -1,3 +1,3 @@
 [submodule "wp-app/wp-content/themes/cinema24-theme"]
 	path = wp-app/wp-content/themes/cinema24-theme
-	url = https://github.com/gipsy/cinema24-theme.git
+	url = git@github.com:gipsy/cinema24-theme.git
