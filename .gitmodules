@@ -4,9 +4,6 @@
 [submodule "wp-app/wp-content/plugins/bootstrap-modal-plugin"]
 	path = wp-app/wp-content/plugins/bootstrap-modal-plugin
 	url = git@github.com:gipsy/bootstrap-modal-plugin.git
-[submodule "wp-app/wp-content/plugins/cinema24-d…"]
-	path = wp-app/wp-content/plugins/cinema24-d…
-	url = git@github.com:gipsy/cinema24-dialog.git
 [submodule "wp-app/wp-content/plugins/site-reviews"]
 	path = wp-app/wp-content/plugins/site-reviews
 	url = git@github.com:gipsy/site-reviews.git
